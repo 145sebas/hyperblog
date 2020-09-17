@@ -13,3 +13,4 @@ Un blog increible para todas esas personas aventuradas  😄
 * Creado por el increíble Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
+* Creado por el increible Platzi team
