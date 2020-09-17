@@ -2,7 +2,6 @@
 Un blog increible para todas esas personas aventuradas  😄
 
 >Estoy aprendiendo mucho con el curso de git y git hub, de platzi
-
 >Sebastian
 
 # Este curso nos enseña de todo
